@@ -20,24 +20,14 @@ To view and interact with the Power BI report:
 2. Open the `.pbix` file in Power BI Desktop.
 3. Explore the report and interact with the Ribbon Chart to gain insights into the data.
 
-## Screenshots
 
-Here's a preview of the Ribbon Chart visualization from the Power BI report:
-
-![Ribbon Chart Preview](path/to/screenshot.png)
 
 ## Resources
 
 - [Power BI Documentation](https://docs.microsoft.com/power-bi/)
 - [Power BI Desktop Download](https://powerbi.microsoft.com/desktop/)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE) - feel free to use and modify the code according to your needs.
-
-## Acknowledgements
-
-Special thanks to the Power BI community and documentation for their valuable resources and support.
 
 ---
 
